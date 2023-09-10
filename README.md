@@ -2,10 +2,21 @@ Bem Vindo ! 🙋‍♂️
 
 <hr>
 
-Eu sou o André fioramonte:
+Olá, prazer !!!
 
+Sou André Fioramonte, desenvolvedor front-end.
 
-estudo as disciplinas: <br>
+Vivo em busca de inovações, impacto positivo e uma vida saudável.
+
+Sou estudante de Gestão da tecnologia da informação, na instituição Gran Faculdade
+
+Apaixonado por tecnologia, acredito que o diálogo é sempre mais importante e com conexão forte podemos ir mais longe.
+
+Como desenvolvedor, busco sempre aplicar as melhores práticas e soluções inovadoras para os projetos que estou envolvido.
+
+<br>
+
+Estudo as disciplinas: <br>
 
 💻 programação front-end <br>
 
